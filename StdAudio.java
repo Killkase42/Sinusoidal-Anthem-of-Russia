@@ -401,7 +401,7 @@ public final class StdAudio {
         multiplePlay(new double[]{Eb3, G4, Bb4, D5, G5}, eighth, f);
         multiplePlay(new double[]{Eb3, G4, A4, C5, G5}, eighth, f);
         multiplePlay(new double[]{Eb3, G4, Bb4, G5}, eighth, f);
-        multiplePlay(new double[]{Eb3, G4, Ab4, C5, G5}, eighth, f);
+        multiplePlay(new double[]{Eb3, G4, A4, C5, G5}, eighth, f);
 
         // 33
         multiplePlay(new double[]{G3, G4, Bb4, D5, G5}, eighth, f);
