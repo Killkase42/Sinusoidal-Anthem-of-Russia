@@ -480,6 +480,6 @@ public final class StdAudio {
 
         multiplePlay(new double[]{Eb3, Eb4, G4, Bb4, Eb5}, 4, 1.2);
 
-        StdAudio.close(); //Closes input to the speaker.
+        StdAudio.close(); //Closes input to the speaker..
     }
 }
